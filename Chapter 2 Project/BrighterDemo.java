@@ -1,4 +1,4 @@
-import java.awt.Color;
+import java.util.Color;
 import javax.swing.JFrame;
 
 public class BrighterDemo
