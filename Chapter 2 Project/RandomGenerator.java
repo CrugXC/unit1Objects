@@ -5,5 +5,8 @@ public class RandomGenerator
     {
         Random randomNumber = new Random();
         System.out.println(randomNumber.nextInt(6));
+        
+        double dieValue2 = Math.random();
+        dieValue
     }
 }
