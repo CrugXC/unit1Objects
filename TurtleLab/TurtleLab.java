@@ -7,7 +7,7 @@ public class TurtleLab
     {
         World turtleWorld = new World(1000, 1000);
         
-        Picture worldPic = new Picture("C:\\Users\\jtrixie\\Downloads\\Nic#1.jpg");
+        Picture worldPic = new Picture("Nic#1.jpg");
         turtleWorld.setPicture(worldPic);
         Turtle t1 = new Turtle(turtleWorld);
         Turtle t2 = new Turtle(turtleWorld);
